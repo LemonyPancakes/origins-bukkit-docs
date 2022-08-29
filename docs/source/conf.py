@@ -32,7 +32,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = []
-html_favicon = 'Origins-Bukkit-32x.ico'
+html_favicon = 'Origins-Bukkit-32x-8bit.ico'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
