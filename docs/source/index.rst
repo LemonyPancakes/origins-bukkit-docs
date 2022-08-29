@@ -7,3 +7,4 @@ Welcome to the Origins-Bukkit documentation!
    :caption: Getting Started
 
    introduction
+   installation
