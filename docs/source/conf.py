@@ -31,6 +31,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
 html_favicon = 'Origins-Bukkit-256x.ico'
 
 # -- Options for EPUB output
