@@ -6,8 +6,8 @@ project = 'Origins-Bukkit'
 copyright = '2022, LemonyPancakes'
 author = 'LemonyPancakes'
 
-release = '1.0.0'
-version = '1.0.0'
+release = '2.3.9'
+version = '2.3.9'
 
 # -- General configuration
 
